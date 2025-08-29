@@ -1,0 +1,14 @@
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\bin\Debug\net9.0\Aula002_TiposdeDados.exe
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\bin\Debug\net9.0\Aula002_TiposdeDados.deps.json
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\bin\Debug\net9.0\Aula002_TiposdeDados.runtimeconfig.json
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\bin\Debug\net9.0\Aula002_TiposdeDados.dll
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\bin\Debug\net9.0\Aula002_TiposdeDados.pdb
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.AssemblyInfoInputs.cache
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.AssemblyInfo.cs
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.csproj.CoreCompileInputs.cache
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.dll
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\refint\Aula002_TiposdeDados.dll
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.pdb
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.genruntimeconfig.cache
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\ref\Aula002_TiposdeDados.dll
