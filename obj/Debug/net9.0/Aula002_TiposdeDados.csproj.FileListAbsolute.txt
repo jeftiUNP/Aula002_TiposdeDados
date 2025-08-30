@@ -12,3 +12,4 @@ C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\o
 C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.pdb
 C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.genruntimeconfig.cache
 C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\ref\Aula002_TiposdeDados.dll
+C:\Users\1282420838\Documents\jefti\Sistemas distribuidos\Aula002_TiposdeDados\obj\Debug\net9.0\Aula002_TiposdeDados.sourcelink.json
